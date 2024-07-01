@@ -1,0 +1,11 @@
+Model Information:
+* title:	mars
+* source:	https://sketchfab.com/3d-models/mars-2899b2614bf0414096a8f103a7c5a7ab
+* author:	areyousure.1g (https://sketchfab.com/areyousure.1g)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mars" (https://sketchfab.com/3d-models/mars-2899b2614bf0414096a8f103a7c5a7ab) by areyousure.1g (https://sketchfab.com/areyousure.1g) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
